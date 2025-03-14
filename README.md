@@ -47,8 +47,3 @@ Currency Detection System using MATLAB This project is designed to classify Real
 
 ---
 
- ## 👨🏻‍💻 Developed By:
-SOWJANYA M
-
----
-
